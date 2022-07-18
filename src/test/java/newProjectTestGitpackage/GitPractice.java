@@ -6,7 +6,7 @@ public class GitPractice {
 		// TODO Auto-generated method stub
 		System.out.println("lalala");
 		System.out.println("done everything");
-		
+		System.out.println("lohri");
 
 	}
 
